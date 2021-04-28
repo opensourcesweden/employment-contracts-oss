@@ -13,7 +13,7 @@ Organizational impacts includes:
 * Reduced personal development for employees
 
 # Legal wording
-This is representative language that could be used to encourage open
+Here is an example of representative language that could be used to encourage open
 source participation by employees.
 
 ```
