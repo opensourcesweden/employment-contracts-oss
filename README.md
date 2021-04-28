@@ -1,5 +1,16 @@
-# employment-contacts-oss
-Material on the employment contacts and ability to contribute to open source projects
+# Brief on the issue of FLOSS discrimination
+It's common to encounter discrimination against FLOSS.
+There are two common examples of discrimination:
+* Commercial sourcing contracts uses language incompatible with software which is FLOSS
+* Employee contracts uses language incompatbile with contributing to FLOSS projects
+
+This document deals with the last example, discrimination against contribution to FLOSS projects.
+
+# Impact
+Organizational impacts includes:
+* Reduced ability to contribute features the company needs
+* Reduced ability ability to fix bugs the company suffers from
+* Reduced personal development for employees
 
 # Legal wording
 This is representative language that could be used to encourage open
