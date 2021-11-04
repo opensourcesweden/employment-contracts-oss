@@ -12,6 +12,12 @@ Organizational impacts includes:
 * Reduced ability ability to fix bugs the company suffers from
 * Reduced personal development for employees
 
+# Take action
+* Read your employment contract.
+* Talk to your manager, ask him/her if you are allowed to contribute to Open Source projects.
+* Argue why your should be allowed to contribute.
+* If you are in Sweden, become a member of Open Source Sweden who are trying to change so that the default employment contract allows contributions to Open Source projects. Support membership: https://opensourcesweden.se/2848. Apply for full membership: https://opensourcesweden.se/medlem/bli_medlem 
+
 # Legal wording
 Here is an example of representative language that could be used to encourage open
 source participation by employees.
